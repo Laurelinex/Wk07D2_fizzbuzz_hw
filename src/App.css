@@ -1,0 +1,24 @@
+* {
+  background-color: rgba(8, 4, 24);
+}
+
+.FizzBuzzGame {
+  text-align: center;
+  color:azure;
+  margin: 0;
+  padding-top: 8%;
+}
+
+.button {
+    padding:0.35em 1.2em;
+    border:0.3em solid azure;
+    margin:0 0.3em 0.3em 0;
+    border-radius:1em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-weight: bolder;
+    color:azure;
+    text-align:center;
+    transition: all 0.2s;
+}
+
